@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+*{
+  font-family: 'DM Sans', sans-serif;
+}
+#logo{
+    max-width: 200px;
+  }
+
+/* Home Page */
+
+.homeContainer {
+    /* border: 1px solid black; */
+    display: block;
+    text-align: center;
+}
+
+#home-button{
+  margin-top: 30px;
+  background-color: rgb(182, 47, 47) ;
+  padding: 20px 30px;
+  font-size: 20px;
+}
+
+#wait-time{
+  margin-top: 40px;
+}
+
+
+#num_people {
+    font-size: 25px;
+    color:rgb(182, 47, 47);
+}
+
+#time {
+    font-size: 40px;
+    color:rgb(182, 47, 47);
+    text-transform: uppercase;
+    margin-top: -10px;
+}
+
+/* Join Queue Page */
+
+#queue-page{
+  display: block;
+}
+
+#form-container{
+  max-width: 400px;
+  margin: auto;
+  display:grid;
+}
+
+#names-container{
+  display: flex;
+  gap: 15px;
+}
+  
+#buttons{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+#join-button{
+  background-color: rgb(182, 47, 47);
+}
+
+#cancel{
+  background-color: rgb(237, 220, 220);
+  color: black;
+}
+
+#form-title{
+  font-size: 30px;
+}
+
+/* Success Join */
+
+.successContainer {
+  /* border: 1px solid black; */
+  display: block;
+  text-align: center;
+}
+
+#back-button{
+margin-top: 30px;
+background-color: rgb(182, 47, 47) ;
+padding: 20px 30px;
+font-size: 20px;
+}
+
+#success-message{
+  font-size: 37px;
+}
+
+
+  
+  
+  
