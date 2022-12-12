@@ -1,0 +1,22 @@
+[
+    {"address": "123 NW 13th St", "city": "Boca Raton",
+    "state": "FL", "postal": 33432, "time": 20},
+    
+    {"address": "270 S Federal Hwy", "city": "Deerfield Beach",
+    "state": "FL", "postal": 33441, "time": 15},
+    
+    {"address": "8095 Glades Rd", "city": "Boca Raton",
+    "state": "FL", "postal": 33434, "time": 10},
+
+    {"address": "14539 S Military Trail", "city": "Delray Beach",
+    "state": "FL", "postal": 33484, "time": 7},
+
+    {"address": "119 Cobb Pkwy SE", "city": "Marietta",
+    "state": "GA", "postal": 30062, "time": 40},
+
+    {"address": "1005 Plymouth Rd", "city": "Minnetonka",
+    "state": "MN", "postal": 55305, "time": 5},
+
+    {"address": "1530 S Lewis Pl", "city": "Tulsa",
+    "state": "OK", "postal": 74104, "time": 12}
+]
